@@ -10,11 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
-</div>
-
-<div align="center">
-  
-##
   
 ![snake gif](https://github.com/rohitjoshi333/rohitjoshi333/blob/output/github-snake-dark.svg)
 
@@ -25,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tailwind,js,java,python,react,typescript,nodejs,mongodb,mysql,azure,figma&theme=dark" width="500"/>
+<img src="https://skillicons.dev/icons?i=tailwind,js,java,python,react,typescript,nodejs,mongodb,mysql,azure,figma&theme=dark" width="800"/>
 
 </div>
 
