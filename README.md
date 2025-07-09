@@ -12,6 +12,14 @@
 
 </div>
 
+<div align="center">
+  
+##
+  
+![snake gif](https://github.com/rohitjoshi333/rohitjoshi333/blob/output/github-snake-dark.svg)
+
+</div>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/201194734-44c276f6-f9f7-4110-a689-687c3c23ec42.gif" width="30"> Tech Stacks
 
