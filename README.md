@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tailwind,js,java,python,react,typescript,nodejs,mongodb,mysql,azure,figma&theme=dark" width="800"/>
+<img src="https://skillicons.dev/icons?i=tailwind,js,java,python,react,typescript,expressjs,mongodb,mysql,azure,figma&theme=dark" width="800"/>
 
 </div>
 
