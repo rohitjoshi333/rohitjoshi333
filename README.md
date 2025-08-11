@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,python,django,react,typescript,mongodb,mysql,azure, .Net, node.js, express, figma&theme=dark" width="800"/>
+<img src="https://skillicons.dev/icons?i=js,java,python,django,react,typescript,mongodb,mysql,postgresql,azure,dotnet,nodejs,express,figma&theme=dark" width="800"/>
 
 </div>
 
