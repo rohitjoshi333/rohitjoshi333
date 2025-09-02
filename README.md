@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,typescript,mongodb,mysql,java,figma&theme=dark" width="800"/>
+<img src="https://skillicons.dev/icons?i=python,django,react,javascript,tailwind,typescript,postgresql,mysql,figma&theme=dark" width="800"/>
 
 </div>
 
