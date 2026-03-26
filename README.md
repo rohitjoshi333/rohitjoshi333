@@ -18,18 +18,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,javascript,tailwind,typescript,postgresql,mysql,figma&theme=dark" width="800"/>
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/201194734-44c276f6-f9f7-4110-a689-687c3c23ec42.gif" width="30"> AWS Certifications
-
-<div align="center">
-
-![AWS Cloud Foundation](https://img.shields.io/badge/AWS-Cloud%20Foundation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
-![AWS Data Engineering](https://img.shields.io/badge/AWS-Data%20Engineering-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
-![AWS ML Foundation](https://img.shields.io/badge/AWS-ML%20Foundation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
-![AWS ML NLP](https://img.shields.io/badge/AWS-ML%20for%20NLP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
+<img src="https://skillicons.dev/icons?i=python,django,react,javascript,typescript,postgresql,mysql,figma&theme=dark" width="800"/>
 
 </div>
 
@@ -40,14 +29,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rohit-joshi-b33476289/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://rohitjoshi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email%20-%20joshirohit.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:itsrohit904@gmail.com)
-
-</div>
-<div align="center">
-
-<img 
-  width="45%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjoshi333&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" 
-/>
 
 </div>
 
