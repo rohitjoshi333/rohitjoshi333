@@ -43,13 +43,13 @@
 &nbsp;
 
 <a href="https://rohitjoshi.info.np/">
-  <img src="https://img.shields.io/badge/rohitjoshi.vercel.app-PORTFOLIO-00D4FF?style=flat-square&labelColor=09090B" />
+  <img src="https://img.shields.io/badge/rohitjoshi.info.np-PORTFOLIO-00D4FF?style=flat-square&labelColor=09090B" />
 </a>
 
 &nbsp;
 
 <a href="mailto:hello@rohitjoshi.info.np">
-  <img src="https://img.shields.io/badge/joshirohit.work%40gmail.com-SAY%20HELLO-00D4FF?style=flat-square&labelColor=09090B" />
+  <img src="https://img.shields.io/badge/hello@rohitjoshi.info.np-SAY%20HELLO-00D4FF?style=flat-square&labelColor=09090B" />
 </a>
 
 &nbsp;
